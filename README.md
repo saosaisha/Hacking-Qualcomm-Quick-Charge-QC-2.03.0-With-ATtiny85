@@ -1,0 +1,1 @@
+# Hacking-Qualcomm-Quick-Charge-QC-2.03.0-With-ATtiny85
